@@ -10,7 +10,7 @@ The effecient use of the compute resources can be achived by:
                  resources busy so it's not sitting idle.
     Parallelsim*: generally split tasks to be executed at the same time. * Migh have multiple compute resources  
 
-when writing a code, it can be written to run as synchronous or Asynchronous or both!
+when writing a code, it can be written to run as Synchronous or Asynchronous or mixture of both!
     Synchronous: means task execution is sequential as in the order it was recieved so once a task is finished the next task starts.
     Asynchronous: means different tasks can start and finish in overlaping periods of time. 
 
